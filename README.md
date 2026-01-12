@@ -1,4 +1,4 @@
-## Hi there 👋
+## what's good
 
 <!--
 **go-sprockets/go-sprockets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
